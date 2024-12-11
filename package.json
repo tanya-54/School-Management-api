@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "creation of two api endpoint",
   "main": "index.js",
-  "scripts": {
+  
+    "scripts": {
   "start": "node src/app.js"
 }
-,
+
+  ,
+
   "keywords": [
     "nodejs",
     "mysql"

@@ -1,5 +1,4 @@
 const db = require('./database');
-const dotenv = require('dotenv');
 
 async function testDatabaseConnection() {
     try {
